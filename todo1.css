@@ -1,0 +1,22 @@
+body {
+    background-color: skyblue;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+}
+
+.segunda {
+    display: flexbox;
+}
+
+.segunda img {
+    height: 200px;
+    margin-right: 30px;
+
+}
